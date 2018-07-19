@@ -57,6 +57,7 @@ body::after {
 /* COMPONENTES */
 /* Header */
 .header--container {
+
   background-color: rgb(250, 135, 0);
   color: rgb(255, 240, 221);
   font-size: 20px;
@@ -71,6 +72,7 @@ body::after {
   list-style: none;
 }
 .header--nav-link {
+
   color: rgb(255, 240, 221);
   text-decoration: none;
 }
@@ -81,6 +83,7 @@ body::after {
 
 /* Footer */
 .footer--container {
+
   background-color: rgba(250, 120, 0, 0.61);
   bottom: 0;
   color: rgb(29, 15, 1);
@@ -98,7 +101,9 @@ body::after {
   list-style: none;
   margin-top: 10px;
 }
+
 .footer--link {
+
   color: rgb(255, 227, 203);
   text-decoration: none;
 }
